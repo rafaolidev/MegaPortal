@@ -9,7 +9,7 @@ You can test, the site functionalities here =>
 - CSS 
 - JavaScript
 
-# What i've Learnd?
+# What i've Learned?
 - HTML:
 How to make a good structure for a website, how to set up the divs,H1...,img and external links.
 
